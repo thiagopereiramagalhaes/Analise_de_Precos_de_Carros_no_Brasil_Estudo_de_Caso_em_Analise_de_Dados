@@ -1,7 +1,5 @@
 # Análise de Preços de Carros no Brasil - Estudo de Caso em Análise e Visualização de Dados
 
-# Análise de Preços de Carros no Brasil 🚗🇧🇷
-
 Este projeto consiste em um estudo de caso de Análise de Dados focado no mercado automotivo brasileiro. O objetivo é explorar e entender as tendências de preços de veículos utilizando um dataset histórico de preços (Tabela Fipe).
 
 ## 📋 Sobre o Projeto
