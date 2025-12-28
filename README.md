@@ -64,3 +64,6 @@ O projeto foi desenvolvido em Python utilizando o ambiente Google Colab. As prin
     ```
 3.  Faça o upload do dataset `precos_carros_brasil - precos_carros_brasil.csv` para o ambiente de execução.
 4.  Execute as células do notebook sequencialmente.
+
+---
+*Este projeto é para fins educacionais e de portfólio.*
